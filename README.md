@@ -1,3 +1,7 @@
 # TextShieldBIN
 
-Estamos disponibilizando a versão executável de teste do nosso software TextShield.
+Estamos disponibilizando a uma versão trial do TextShield.
+
+Com ela você encripta um texto de até 64 caracteres.
+
+Futuramente disponibilizaremos outras versões.
